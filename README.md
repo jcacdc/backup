@@ -6,7 +6,7 @@ Este script de Bash proporciona un menú interactivo para realizar respaldos y r
 
 1. Asegúrate de tener Bash instalado en tu sistema.
 
-2. Descarga el archivo `respaldo_restauracion.sh`.
+2. Descarga el archivo `backup.sh`.
 
 3. Abre una terminal y navega hasta la ubicación donde se encuentra el archivo descargado.
 
