@@ -2,7 +2,7 @@
 
 ################################################################################
 # Nombre del script: backup.sh
-# Descripción: Script para grabar imagen ISO en una unidad
+# Descripción: Script de respaldo y restauración
 # Autor: Jorge Giovannelli
 # Fecha: 4 de junio de 2023
 # Versión: 1.0
