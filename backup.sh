@@ -1,5 +1,14 @@
 #!/bin/bash
 
+################################################################################
+# Nombre del script: backup.sh
+# Descripción: Script para grabar imagen ISO en una unidad
+# Autor: Jorge Giovannelli
+# Fecha: 4 de junio de 2023
+# Versión: 1.0
+# Licencia: Licencia Pública General de GNU (GNU GPL)
+################################################################################
+
 mostrar_menu() {
   echo "Menú:"
   echo "1. Realizar respaldo"
